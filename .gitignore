@@ -1,0 +1,10 @@
+*.pkl
+*.csv
+
+Taller_análisis_de_datos_con_Python__Juan_Striccoli.ipynb
+main.py
+
+env/
+__pycache__/
+__init__.py
+
